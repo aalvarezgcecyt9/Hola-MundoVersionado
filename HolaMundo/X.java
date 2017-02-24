@@ -9,5 +9,6 @@
  * @author SCO010
  */
 public class X {
+    System.out.println("Hola git hub y netbeans");
     
 }
